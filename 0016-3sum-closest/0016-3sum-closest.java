@@ -13,29 +13,28 @@ class Solution {
             while(left<right){
                 int s = nums[left]+nums[right];
                 int currSum = nums[i] + nums[left] + nums[right];
-                
-                if(s == sum ){
-                    
-                    return target; 
-                }
-                else if(s> sum){
-                    int diff = Math.abs(target - currSum);
-                    if(max_diff>diff){
-                        max_diff=diff;
-                        bestsum=currSum;
-                        
-                    }
-                    right--;
-                }
-                else{
-                    int diff = Math.abs(target - currSum);
-                    if(max_diff>diff){
-                        max_diff=diff;
-                        bestsum=currSum;
-                    }
-                    left++;
 
+
+                int diff = Math.abs(target - currSum);
+                if(max_diff>diff){
+                    max_diff=diff;
+                    bestsum=currSum;
                 }
+
+
+                if(s == sum )
+                    return target; 
+                
+
+                else if(s> sum)
+                    right--;
+                
+                
+                else
+                    left++;
+            
+
+                
             }
         }
         return bestsum;
