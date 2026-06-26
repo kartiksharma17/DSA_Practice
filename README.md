@@ -9,6 +9,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0001-two-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -22,6 +23,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | ------- |
 | [0015-3sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -31,6 +33,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | ------- |
 | [0015-3sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
