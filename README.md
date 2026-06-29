@@ -14,6 +14,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -43,4 +44,13 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
