@@ -59,4 +59,8 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kartiksharma17/DSA_Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
