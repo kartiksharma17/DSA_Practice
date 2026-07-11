@@ -17,6 +17,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiksharma17/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
