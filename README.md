@@ -18,6 +18,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0118-pascals-triangle](https://github.com/kartiksharma17/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kartiksharma17/DSA_Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | ------- |
 | [0001-two-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -93,4 +96,12 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kartiksharma17/DSA_Practice/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
