@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        //brute force  
+       
 
         int n= prices.length;
         int mini= prices[0];
