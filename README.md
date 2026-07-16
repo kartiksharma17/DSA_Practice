@@ -11,6 +11,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartiksharma17/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartiksharma17/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiksharma17/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -101,6 +103,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
