@@ -14,11 +14,11 @@ class Solution {
         }
 
         for(int num: set){
-            if(num == Integer.MIN_VALUE || !set.contains(num-1)){
+            if(!set.contains(num-1)){
                 int x=num;
                 int len=1;
 
-                while(x!=Integer.MAX_VALUE && set.contains(x+1)){
+                while(x!= Integer.MAX_VALUE && set.contains(x+1)){
                     x++;
                     len++;
                 }
