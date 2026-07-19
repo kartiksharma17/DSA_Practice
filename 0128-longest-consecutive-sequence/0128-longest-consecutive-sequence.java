@@ -18,7 +18,7 @@ class Solution {
                 int x=num;
                 int len=1;
 
-                while(x!= Integer.MAX_VALUE && set.contains(x+1)){
+                while(set.contains(x+1)){
                     x++;
                     len++;
                 }
