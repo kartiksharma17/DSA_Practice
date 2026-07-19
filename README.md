@@ -18,6 +18,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kartiksharma17/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiksharma17/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/kartiksharma17/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kartiksharma17/DSA_Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | ------- |
 | [0001-two-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kartiksharma17/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -115,4 +117,8 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiksharma17/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kartiksharma17/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
