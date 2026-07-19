@@ -11,6 +11,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
@@ -89,10 +90,12 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
