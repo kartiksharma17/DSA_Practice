@@ -13,6 +13,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0027-remove-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kartiksharma17/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartiksharma17/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kartiksharma17/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kartiksharma17/DSA_Practice/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiksharma17/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
