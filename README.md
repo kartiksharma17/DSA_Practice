@@ -104,6 +104,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartiksharma17/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiksharma17/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,4 +130,12 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kartiksharma17/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
