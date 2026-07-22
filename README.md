@@ -12,6 +12,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kartiksharma17/DSA_Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartiksharma17/DSA_Practice/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartiksharma17/DSA_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kartiksharma17/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kartiksharma17/DSA_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiksharma17/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,8 +143,13 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
