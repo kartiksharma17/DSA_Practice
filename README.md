@@ -7,6 +7,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kartiksharma17/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0018-4sum) |
@@ -138,4 +140,8 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kartiksharma17/DSA_Practice/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
