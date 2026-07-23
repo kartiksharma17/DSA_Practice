@@ -31,6 +31,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kartiksharma17/DSA_Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiksharma17/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiksharma17/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -42,6 +43,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0073-set-matrix-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kartiksharma17/DSA_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiksharma17/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiksharma17/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/kartiksharma17/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
 | ------- |
