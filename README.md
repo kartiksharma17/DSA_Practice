@@ -34,6 +34,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0485-max-consecutive-ones](https://github.com/kartiksharma17/DSA_Practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiksharma17/DSA_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartiksharma17/DSA_Practice/tree/master/0704-binary-search) |
+| [0881-boats-to-save-people](https://github.com/kartiksharma17/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/kartiksharma17/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiksharma17/DSA_Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiksharma17/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartiksharma17/DSA_Practice/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/kartiksharma17/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiksharma17/DSA_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 | [0075-sort-colors](https://github.com/kartiksharma17/DSA_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kartiksharma17/DSA_Practice/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/kartiksharma17/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/kartiksharma17/DSA_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode solutions and Data Structures &amp; Algorithms practice
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartiksharma17/DSA_Practice/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/kartiksharma17/DSA_Practice/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
